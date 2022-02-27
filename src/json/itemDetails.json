@@ -5,15 +5,15 @@
   "imageUrls": [
     {
       "_id": "asd1293uasdads1",
-      "url": "/images/img-featured-1.jpg"
+      "url": "/images/details/details-1.png"
     },
     {
       "_id": "asd1293uasdads1",
-      "url": "/images/img-featured-2.jpg"
+      "url": "/images/details/details-2.png"
     },
     {
       "_id": "asd1293uasdads1",
-      "url": "/images/img-featured-3.jpg"
+      "url": "/images/details/details-3.png"
     }
   ],
   "country": "Indonesia",
@@ -28,124 +28,126 @@
       "_id": "asd1293uasdads1",
       "qty": "3",
       "name": "bedroom",
-      "imageUrl": "/images/icon-bedroom.svg"
+      "imageUrl": "/images/icon/icon-bedroom.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
       "name": "living room",
-      "imageUrl": "/images/icon-livingroom.svg"
+      "imageUrl": "/images/icon/icon-livingroom.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "bath room",
-      "imageUrl": "/images/icon-bathroom.svg"
+      "imageUrl": "/images/icon/icon-bathroom.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
       "name": "dining room",
-      "imageUrl": "/images/icon-diningroom.svg"
+      "imageUrl": "/images/icon/icon-diningroom.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "10",
       "name": "mbps",
-      "imageUrl": "/images/icon-wifi.svg"
+      "imageUrl": "/images/icon/icon-wifi.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "units ready",
-      "imageUrl": "/images/icon-airconditioner.svg"
+      "imageUrl": "/images/icon/icon-ac.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "refrigerator",
-      "imageUrl": "/images/icon-refrigerator.svg"
+      "imageUrl": "/images/icon/icon-kulkas.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
       "name": "television",
-      "imageUrl": "/images/icon-tv.svg"
+      "imageUrl": "/images/icon/icon-tv.svg"
     }
   ],
   "activities": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Kebun Park",
+      "name": "Green Lake",
       "type": "Nature",
-      "imageUrl": "/images/categoryItem1.png"
+      "imageUrl": "/images/categories/categories-1.png"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Water land",
+      "name": "Dog Clubs",
       "type": "Pool",
-      "imageUrl": "/images/categoryItem2.png"
+      "imageUrl": "/images/categories/categories-2.png"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Kebun Park",
-      "type": "Nature",
-      "imageUrl": "/images/categoryItem3.png"
+      "name": "Labour and Wait",
+      "type": "Shopping",
+      "imageUrl": "/images/categories/categories-3.png",
+      "isPopular": true
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Water land",
-      "type": "Pool",
-      "imageUrl": "/images/categoryItem4.png"
+      "name": "Snorkeling",
+      "type": "Beach",
+      "imageUrl": "/images/categories/categories-4.png"
     }
   ],
   "categories": [
     {
       "_id": "asd1293uasdads1",
-      "name": "House with beauty backyard",
+      "name": "Treasure to Choose",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/treasure-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
+          "name": "Green Lake",
+          "type": "Nature",
+          "imageUrl": "/images/categories/categories-1.png",
+          "country": "Indonesia",
+          "city":"Bogor"
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/treasure-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
+          "name": "Dog Clubs",
+          "type": "Pool",
+          "imageUrl": "/images/categories/categories-2.png",
+          "country": "Indonesia",
+          "city":"Bogor"
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/treasure-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": true
+          "name": "Labour and Wait",
+          "type": "Shopping",
+          "imageUrl": "/images/categories/categories-3.png",
+          "isPopular": true,
+          "country": "Indonesia",
+          "city":"Bogor"
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/treasure-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
+          "name": "Snorkeling",
+          "type": "Beach",
+          "imageUrl": "/images/categories/categories-4.png",
+          "country": "Indonesia",
+          "city":"Bogor"
         }
       ]
     }
   ],
   "testimonial": {
     "_id": "asd1293uasdads1",
-    "imageUrl": "/images/testimonial-detailspage.jpg",
+    "imageUrl": "/images/img-testimonial-details.png",
     "name": "Happy Family",
-    "rate": 4.25,
-    "content": "What a great trip with my family and I should try again and again next time soon...",
-    "familyName": "Angga",
-    "familyOccupation": "UI Designer"
+    "rate": 5,
+    "content": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+    "familyName": "Anggi",
+    "familyOccupation": "Product Designer"
   }
 }
